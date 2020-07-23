@@ -1,4 +1,4 @@
-# Hi, I am Ayush 👋 <a href="https://www.animatedimages.org/cat-motorbike-73.htm"><img src="https://www.animatedimages.org/data/media/73/animated-motorbike-image-0031.gif" border="0" alt="animated-motorbike-image-0031" height=70px width=70px /></a>
+# Hi, I am Ayush <a href="https://www.animatedimages.org/cat-motorbike-73.htm"><img src="https://www.animatedimages.org/data/media/73/animated-motorbike-image-0031.gif" border="0" alt="animated-motorbike-image-0031" height=80px width=80px /></a>
 ## Something About Me :ghost:
 
 **Electrical Engineering** undergraduate at **National Institute of Technology,Durgapur.** <br>
