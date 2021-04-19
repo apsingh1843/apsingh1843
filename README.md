@@ -2,8 +2,8 @@
 ## Something About Me :ghost:
 
 **Electrical Engineering** undergraduate at **National Institute of Technology,Durgapur.** <br>
-**Web Developer** at **Centre for Cognitive Activities (CCA).**
-Skills : **HTML,CSS,Bootstrap,Javascript,React JS,Python and Django framework.**
+**Web Developer** at **Centre for Cognitive Activities (CCA).**<br>
+Skills : **HTML,CSS,Bootstrap,Javascript,React JS,Python and Django framework.**<br>
 - 🌱 I’m currently learning **React Native, REST API** and much more.
 - ⚡ Fun fact: Apart from that I am a huge cricket fan, so if Github ever decides to organise an open source cricket league, Yo :metal: I am in.
 - 📫 Connect with me on LinkedIn: **www.linkedin.com/in/apsingh1843**
