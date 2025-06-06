@@ -4,7 +4,7 @@
 
 <br />
 
-- 🏫 **Electrical Engineering** undergraduate at **National Institute of Technology,Durgapur.** <br>
+- 🏫 **Electrical Engineering** graduate from **National Institute of Technology,Durgapur.** <br>
 - 💻 **Full Stack Web and App Developer** at **Centre for Cognitive Activities (CCA)**, NIT Durgapur.<br>
 - 🌱 I’m currently learning **NextJS, Cloud Services** and much more.
 - 👯 I’m looking to collaborate on Web and App Development projects.
